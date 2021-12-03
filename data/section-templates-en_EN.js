@@ -16,9 +16,16 @@ This project is a [utility/tool/feature] that allows [insert_target_audience] to
 
 This project is trying to solve the problem of by achieving [project goal]
 
-This project is owned by team [[enter team name & link](link_to_team_page)].
-
 This project is meant to use by [costumer/ui projects/POSE employees]
+`,
+  },
+  {
+    slug: '02. ownership',
+    name: 'Ownership',
+    markdown: `
+## Ownership
+
+This project is owned by team [[enter team name & link](link_to_team_page)].
 `,
   },
   {
@@ -31,16 +38,16 @@ Insert gif or link to demo or living enviorment
 
 `,
   },
-  {
-    slug: '04. screenshots',
-    name: 'Screenshots',
-    markdown: `
-## Screenshots
+  //   {
+  //     slug: '04. screenshots',
+  //     name: 'Screenshots',
+  //     markdown: `
+  // ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  // ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-`,
-  },
+  // `,
+  //   },
   {
     slug: '05. Prerequisites',
     name: 'Prerequisites',
@@ -171,9 +178,9 @@ function App() {
   },
   {
     slug: '11. tests',
-    name: 'Running Tests',
+    name: 'Tests',
     markdown: `
-## Running Tests
+## Tests
 
 To run tests, run the following command
 
@@ -215,7 +222,7 @@ npm run deploy
     markdown: `
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email fake@fake.com or post on the [#my-channel] Slack channel.
 
 `,
   },
