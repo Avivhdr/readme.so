@@ -14,7 +14,7 @@ export const en_EN = [
 
 This project is a [utility/tool/feature] that allows [insert_target_audience] to do [action/task_it_does].
 
-This project is trying to solve the problem of by achieving [project goal]
+This project is trying to solve the problem of [problem] by achieving [project goal]
 
 This project is meant to use by [costumer/ui projects/POSE employees]
 `,
