@@ -104,13 +104,13 @@ Start the project
     slug: '08. Options',
     name: 'Options',
     markdown: `
-    ### Options
+### Options
 
-    | option          | description                                                        |
-    | --------------- | ------------------------------------------------------------------ |
-    | --flag-A        | Description of \`--flag-A\`                                        |
-    | --flag-B        | Description of \`--flag-B\`                                        |
-    | --flag-C        | Description of \`--flag-C\`                                        |
+| option          | description                                                        |
+| --------------- | ------------------------------------------------------------------ |
+| --flag-A        | Description of \`--flag-A\`                                        |
+| --flag-B        | Description of \`--flag-B\`                                        |
+| --flag-C        | Description of \`--flag-C\`                                        |
 
 `,
   },
