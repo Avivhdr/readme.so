@@ -38,16 +38,16 @@ Insert gif or link to demo or living enviorment
 
 `,
   },
-  //   {
-  //     slug: '04. screenshots',
-  //     name: 'Screenshots',
-  //     markdown: `
-  // ## Screenshots
+  {
+    slug: '04. screenshots',
+    name: 'Screenshots',
+    markdown: `
+  ## Screenshots
 
-  // ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-  // `,
-  //   },
+  `,
+  },
   {
     slug: '05. Prerequisites',
     name: 'Prerequisites',
@@ -97,6 +97,20 @@ Start the project
 \`\`\`bash
   npm run start
 \`\`\`
+
+`,
+  },
+  {
+    slug: '08. Options',
+    name: 'Options',
+    markdown: `
+    ### Options
+
+    | option          | description                                                        |
+    | --------------- | ------------------------------------------------------------------ |
+    | --flag-A        | Description of \`--flag-A\`                                        |
+    | --flag-B        | Description of \`--flag-B\`                                        |
+    | --flag-C        | Description of \`--flag-C\`                                        |
 
 `,
   },
